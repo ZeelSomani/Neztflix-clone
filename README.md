@@ -13,6 +13,9 @@ Hover effects and transitions.
 Mobile-friendly design.
 Simulated navigation bar (no backend).
 
+## Website Link
+https://zeelsomani.github.io/Neztflix-clone/
+
 ## 📸 Preview
 ![image](https://github.com/user-attachments/assets/33c7522a-af9e-4c5c-ab4b-dd4909477089)
 
